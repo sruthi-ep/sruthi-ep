@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Sruthi E P 👋
 
-<!--
-**sruthi-ep/sruthi-ep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Developer · Full-Stack Builder · Product Creator
 
-Here are some ideas to get you started:
+I build at the intersection of **AI, automation, and digital products** — turning ideas into practical systems, prototypes, and web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm especially interested in building technology that solves real-world problems rather than creating projects just for the sake of adding another repository.
+
+---
+
+## Currently Exploring
+
+```text
+> AI Agents
+> Voice AI
+> Intelligent Automation
+> Generative AI
+> Creative Web Development
+> Product Engineering
